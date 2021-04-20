@@ -11,12 +11,15 @@ Developer work as a contributor in a repository must:
   - [Swift](https://github.com/raywenderlich/swift-style-guide)
   - [Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
   - [JavaScript](https://github.com/airbnb/javascript)
+  - [TypeScript](https://google.github.io/styleguide/tsguide.html)
+  - [AngularJS](https://google.github.io/styleguide/angularjs-google-style.html)
   - [Java](https://google.github.io/styleguide/javaguide.html)
   - [Shell](https://google.github.io/styleguide/shellguide.html)
   - [Go](https://github.com/golang/go/wiki/CodeReviewComments)
   - [Python](https://google.github.io/styleguide/pyguide.html)
+  - [Dart](https://dart.dev/guides/language/effective-dart)
 - Make sure each commit can buildable
-- Set up git hooks especially for pre-commit
+- Set up git hooks especially for pre-commit (lint, build, test)
 - Keep documentation up to date
 - Keep calm and enjoy coding
 - Set up CI/CD with GitHub Action
