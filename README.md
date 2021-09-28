@@ -5,7 +5,7 @@ This repository helps to align among contributors to work together
 Developer work as a contributor in a repository must:
 - Follow git's best practice
   - [Git Flow](https://guides.github.com/introduction/flow)
-  - [Git branch Model](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [Git branch Model](./arts/Git-branch-model.png) base on [https://nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
   - [Readable commit message with Karma](http://karma-runner.github.io/5.0/dev/git-commit-msg.html)
 - Follow Coding conventions
   - [Swift](https://github.com/raywenderlich/swift-style-guide)
